@@ -1,0 +1,9 @@
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\obj\Debug\LiesegangRings.csprojResolveAssemblyReference.cache
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\obj\Debug\LiesegangRings.Properties.Resources.resources
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\obj\Debug\LiesegangRings.csproj.GenerateResource.cache
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\obj\Debug\LiesegangRings.csproj.CoreCompileInputs.cache
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\bin\Debug\LiesegangRings.exe.config
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\bin\Debug\LiesegangRings.exe
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\bin\Debug\LiesegangRings.pdb
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\obj\Debug\LiesegangRings.exe
+c:\users\1358365\source\repos\LiesegangRings\LiesegangRings\obj\Debug\LiesegangRings.pdb

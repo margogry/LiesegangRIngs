@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiesegangRings", "LiesegangRings\LiesegangRings.csproj", "{962DA703-A959-42BD-983B-5EAB55EB32FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962DA703-A959-42BD-983B-5EAB55EB32FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962DA703-A959-42BD-983B-5EAB55EB32FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962DA703-A959-42BD-983B-5EAB55EB32FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962DA703-A959-42BD-983B-5EAB55EB32FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2B5825-8A1E-4119-981F-1FD960C1D3CA}
+	EndGlobalSection
+EndGlobal
